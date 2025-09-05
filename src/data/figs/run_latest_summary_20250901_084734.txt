@@ -1,0 +1,8 @@
+Özet metrikler
+================
+Örnek sayısı: 846
+RMSE Naive [m]: 7.179
+RMSE EKF   [m]: 1.570
+Loop-closure GT [m]: 42.184
+Loop-closure Naive [m]: 41.773
+Loop-closure EKF [m]: 43.485
